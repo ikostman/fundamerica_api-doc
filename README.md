@@ -7,7 +7,7 @@ The current API documentation for Fund America has grown significantly from it's
 ## Examples
 Stripe, a fabulous on-line gateway for accepting payments online and in mobile apps, has an outstanding on-line API guide. They handle billions of dollars every year for forward-thinking businesses around the world, and created an excellent repository for documentation driving developmental efforts around the world. [Visit Strip's API Doc](https://stripe.com/docs)
 
-Stripe, a fabulous on-line gateway for accepting payments online and in mobile apps, has an outstanding on-line API guide. They handle billions of dollars every year for forward-thinking businesses around the world, and created an excellent repository for documentation driving developmental efforts around the world. [Visit Strip's API Doc](https://stripe.com/docs)
+Of course, other API docs were reviewed, with "the best of the best" being extracted from each.  The final result is what is seen in this project. Please keep in my that this is a living system, and will therefore frequently alter based on the needs and wants of our customer base.
 
 ## Contributors
 Joshua Hansen
