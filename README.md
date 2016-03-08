@@ -12,8 +12,8 @@ Of course, other API docs were reviewed, with "the best of the best" being extra
 
 ## Contributors
 <ul>
-  <li><a href="https://mail.google.com/mail/?view=cm&fs=1&to=joshua@fundamerica.com&su=Fund America API Doc" target="_top">gMail Joshua Hansen</a></li>
-  <li><a href="https://mail.google.com/mail/?view=cm&fs=1&to=d@fundamerica.com&su=Fund America API Doc" target="_top">gMail Dave Nguyen</a></li>
-  <li><a href="https://mail.google.com/mail/?view=cm&fs=1&to=ian@fundamerica.com&su=Fund America API Doc" target="_top">gMail Ian Kostman</a></li>
-  <li><a href="https://mail.google.com/mail/?view=cm&fs=1&to=christian@fundamerica.com&su=Fund America API Doc" target="_top">gMail Christian Ntong</a></li>
+  <li><a href="https://mail.google.com/mail/?view=cm&fs=1&to=joshua@fundamerica.com&su=Fund America API Doc" target="gMail">gMail Joshua Hansen</a></li>
+  <li><a href="https://mail.google.com/mail/?view=cm&fs=1&to=d@fundamerica.com&su=Fund America API Doc" target="gMail">gMail Dave Nguyen</a></li>
+  <li><a href="https://mail.google.com/mail/?view=cm&fs=1&to=ian@fundamerica.com&su=Fund America API Doc" target="gMail">gMail Ian Kostman</a></li>
+  <li><a href="https://mail.google.com/mail/?view=cm&fs=1&to=christian@fundamerica.com&su=Fund America API Doc" target="gMail">gMail Christian Ntong</a></li>
 </ul>
