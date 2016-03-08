@@ -11,7 +11,9 @@ Stripe, a fabulous on-line gateway for accepting payments online and in mobile a
 Of course, other API docs were reviewed, with "the best of the best" being extracted from each.  The final result is what is seen in this project. Please keep in my that this is a living system, and will therefore frequently alter based on the needs and wants of our customer base.
 
 ## Contributors
-Joshua Hansen
-Dave Nguyen
-Ian Kostman
-Christian Ntong
+<ul>
+  <li><a href="mailto:someone@fundamerica.com?Subject=Fund%20America%20API%20Doc" target="_top">Joshua Hansen</a></li>
+  <li><a href="mailto:someone@fundamerica.com?Subject=Fund%20America%20API%20Doc" target="_top">Dave Nguyen</a></li>
+  <li><a href="mailto:someone@fundamerica.com?Subject=Fund%20America%20API%20Doc" target="_top">Ian Kostman</a></li>
+  <li><a href="mailto:someone@fundamerica.com?Subject=Fund%20America%20API%20Doc" target="_top">Christian Ntong</a></li>
+</ul>
