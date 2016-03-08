@@ -1,5 +1,5 @@
 # Fund America API Doc
-<a href="http://nemo-soft.com/FundAmerica/API_Doc/index.html" target="API"><img src="http://nemo-soft.com/FundAmerica/API_Doc/images/"></a>
+<a href="http://nemo-soft.com/FundAmerica/API_Doc/index.html" target="API"><img src="http://nemo-soft.com/FundAmerica/API_Doc/images/doc_image.jpg"></a>
 
 ## Synopsis
 The current API documentation for Fund America has grown significantly from it's infancy. During this time, it has become somewhat of a juggernaut, quickly passing the tipping point between functional and cumbersome. This document must be redesigned in such a way that it will functionally answer most questions applicable to developmental integration to Fund America, thus relieving weight on the technical support staff while simultaneously providing significatnly better service to our technology partners.
