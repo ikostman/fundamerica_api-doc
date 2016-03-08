@@ -1,5 +1,6 @@
-# fundamerica_api-doc
+# Fund America API Doc
 ![API Documentation](https://mountainss.files.wordpress.com/2012/09/sysctr-documentation-icon.jpg "API Documentation")
+https://github.com/ikostman/fundamerica_api-doc.git
 
 ## Synopsis
 The current API documentation for Fund America has grown significantly from it's infancy. During this time, it has become somewhat of a juggernaut, quickly passing the tipping point between functional and cumbersome. This document must be redesigned in such a way that it will functionally answer most questions applicable to developmental integration to Fund America, thus relieving weight on the technical support staff while simultaneously providing significatnly better service to our technology partners.
